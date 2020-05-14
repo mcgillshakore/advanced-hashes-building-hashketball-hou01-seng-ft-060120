@@ -38,7 +38,7 @@ def game_hash
       },
       {
         player_name: "Mason Plumlee"
-        number: "1",
+        number:"1,
         shoe: "19",
         points: "26",
         rebounds: "11", 
